@@ -61,3 +61,25 @@ div.loginInputsContainer input {
     text-align: center;
     font-style: italic;
 }
+
+div.loginButtonContainer {
+    margin-top: 40px;
+    text-align: center;
+}
+
+div.loginButtonContainer button {
+    font-size: 20px;
+    padding: 10px 40px;
+    background-color: #f685a2;
+    border: none;
+    color: #fff;
+}
+
+div.SignUpButtonContainer button {
+    font-size: 20px;
+    padding: 10px 40px;
+    background-color: #f685a2;
+    border: none;
+    color: #fff;
+    text-align: center;
+}
