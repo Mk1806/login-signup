@@ -1,0 +1,33 @@
+body {
+    background-color: #2a2a72;
+    background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 75%);
+    background-size: cover;
+    font-family: arial;
+}
+
+div.loginHeader {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+div.loginHeader h1 {
+    font-size: 100px;
+    color: #f685a2;
+    padding: 0px;
+    margin: 0px;
+}
+div.loginHeader p {
+    color: #ffdae3;
+    font-size: 50px;
+    margin: 0px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+div.loginHeader p:after{
+    content: '';
+    display: block;
+    height: 5px;
+    background: #f685a2;
+    margin: 0 auto;
+}
